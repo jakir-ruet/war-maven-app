@@ -1,6 +1,16 @@
 ### Welcome to War-Maven-App
 This is DevOps testing purpose application
 
+Create App with vscode
+- Create Java Project
+- Maven create from archetype
+- maven-archetype-webapp
+- Select version (1.4)
+- Give Group ID (com.mavenapp)
+- Give Artifact ID (mavenapp)
+- Choose the destination directory
+- Open app
+
 Build
 ```bash
 mvn initialize
