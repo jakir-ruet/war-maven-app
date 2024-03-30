@@ -24,3 +24,8 @@ Validation
 mvn validate 
 ```
 [More Command](https://maven.apache.org/run.html)
+
+Let me check
+```bash
+http://192.168.162.130:8080/mavenapp/
+```
